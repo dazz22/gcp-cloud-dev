@@ -1,0 +1,15 @@
+Notes
+#update
+suod apt-get update
+#install docker
+sudo apt install docker
+#clone repo
+git clone https://github.com/dazza22/gcp-cloud-dev.git
+#install docker compose
+sudo apt install docker-compose
+
+
+#to start and view log
+docker-compose up
+#to start in background
+docker-compose up
